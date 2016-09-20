@@ -3,5 +3,9 @@
   "version": "0.0.1",
   "description": "Simple paths provider.",
   "author": "GethsLeader",
-  "main": "index.js"
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GethsLeader/pathinizer.git"
+  }
 }
