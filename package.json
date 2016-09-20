@@ -1,0 +1,7 @@
+{
+  "name": "pathinizer",
+  "version": "0.0.1",
+  "description": "Simple paths provider.",
+  "author": "GethsLeader",
+  "main": "index.js"
+}
