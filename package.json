@@ -1,7 +1,7 @@
 {
   "name": "pathinizer",
-  "version": "0.0.2",
-  "description": "Simple paths provider.",
+  "version": "0.0.3",
+  "description": "Simple paths provider and path module wrapper.",
   "author": "GethsLeader",
   "main": "index.js",
   "repository": {
