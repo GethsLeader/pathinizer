@@ -13,13 +13,14 @@ var paths = {
     temp: null,
     isAbsolute: path.isAbsolute,
     join: path.join,
-    parse:  path.parse,
+    parse: path.parse,
     format: path.format,
     normalize: path.normalize,
     extname: path.extname,
     basename: path.basename,
     dirname: path.dirname,
-    delimiter: path.delimiter
+    delimiter: path.delimiter,
+    sep: path.sep
 };
 
 paths.script = process.argv[1];
